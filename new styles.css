@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+    background-image: -moz-linear-gradient(karim.jpg);
+}
+ol{
+    background-color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    color: rgb(14, 14, 109);
+}
